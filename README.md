@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Slash Blog
+Overview
+Your blog app is a modern web application built using Next.js, a popular React framework known for its performance optimizations and developer-friendly features. This app aims to provide a platform for users to create, read, update blog posts seamlessly. It incorporates responsive design principles using Bootstrap for a clean and aesthetic user interface across different devices.
+
+Features:
+Responsive design using Bootstrap
+Routing Using Next.js features
+
+Technologies Used:
+Next.js
+React
+Bootstrap
 
 ## Getting Started
 
@@ -34,3 +45,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+Contact
+Email: Amirnader2021@outlook.com
